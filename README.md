@@ -5,6 +5,6 @@ An online tool for matching skill sets to job descriptions, utilizing�
 
 Our current deployed version is here: https://q3-goosehire.herokuapp.com/
 
-![alt text](https://github.com/mehrimo/nightlite/blob/master/public/imgs/screenshot_index.png?raw=true)
+![alt text](https://github.com/mehrimo/q3-goosehire/blob/master/app/public/images/goosehire-homepage.png?raw=true)
 
 ### Some Disclaimers
