@@ -5,9 +5,7 @@ An online tool for matching skill sets to job descriptions, utilizing�
 
 Our current deployed version is here: https://q3-goosehire.herokuapp.com/
 
-#### My Role
 
-I worked on the overall look and feel of the site – color scheme, carousel images, layout. I also set up the MongoDB servers and assisted with querying the database and building the routes. 
 
 
 ![alt text](https://github.com/mehrimo/q3-goosehire/blob/master/app/public/images/goosehire-homepage.png?raw=true)
@@ -23,5 +21,5 @@ I worked on the overall look and feel of the site – color scheme, carousel ima
 ### Technologies Used
 
 1. **Indeed API:** Used to get job posting data.
-2. This app uses **Pure CSS** for the front-end design, with a few **Bootstrap** features. 
+2. For the front end, we used **AngularJS**, **Pure CSS** and a few **Bootstrap** features. 
 3. To build our database, we used **MongoDB**, **Mongoose** and **Express**.
